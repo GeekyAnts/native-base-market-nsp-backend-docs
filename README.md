@@ -8,4 +8,4 @@ The ideal starter kit / app script with all the needed UI elements alongwith:
 * NativeBase and 
 * Backend integration (Express, Node, MongoDB and Passport ) to build your iOS and Android app
 
-[Click here](https://) to know more.
+[Click here](https://market.nativebase.io/view/native-starter-pro-with-backend) to know more.
