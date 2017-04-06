@@ -1,0 +1,15 @@
+{
+    "title": "NativeBase",
+    "plugins": [
+        "versions",
+        "ace",
+        "edit-link"
+       
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/GeekyAnts/native-base-market-nsp-backend-docs/master",
+            "label": "Edit This Page"
+        }
+    }
+}
