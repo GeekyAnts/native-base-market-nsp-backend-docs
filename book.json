@@ -1,28 +1,12 @@
 {
-    "title": "NativeBase",
+    "title": "NSP-Backend",
     "plugins": [
-        "versions",
-        "ace",
         "edit-link"
     ],
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/GeekyAnts/native-base-market-nsp-backend-docs/tree/master",
             "label": "Edit This Page"
-        },
-        "versions": {
-            "gitbookConfigURL": "http://docs.market.nativebase.io/native-starter-pro-with-backend/",
-            "options": [
-                {
-                    "value": "http://docs.market.nativebase.io/native-starter-pro-with-backend/",
-                    "text": "latest"
-                },
-                {
-                    "value": "http://docs.market.nativebase.io/native-starter-pro-with-backend/",
-                    "text": "-- select version --",
-                    "selected": false
-                }
-            ]
         }
     }
 }
