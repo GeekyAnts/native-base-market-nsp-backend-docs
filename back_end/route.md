@@ -17,29 +17,19 @@ Contains route which gets the email and password  from user .It search for the e
 
          "success": true,
 
-         "message": "user created successfully",
+         "message": "user successfully logged in",
 
          "data": {
 
            "jwtAccessToken": "JWT eyJhbGciOiJIUzI1NiIsI...",
 
            "user": {
-
-             "\_\_v": 0,
-
-             "email": "user@gmail.com",
-
-             "password": "$2a$10$6U3AOzzdBbPH6a3kqA6.feei6GgvPSURkVHNdL13QhPFmnZVVTgnm",
-
-             "phoneNo": "9191919191",
-
-             "\_id": "57e272c7268e9103947bc472",
-
-             "jwtAccessToken": null,
-
-             "createdAt": "2016-09-21T11:45:11.898Z"
-
-           }
+              "_id": "58fdd0c7beb5303d21767d93",
+              "email": "result@test.in",
+              "__v": 0,
+              "jwtAccessToken": null,
+              "createdAt": "2017-04-24T10:17:43.515Z"
+            }
 
          }
 
@@ -68,7 +58,7 @@ Contains route which gets the email and password  from user .It search for the e
    "message": "user logout successfully"
 
    }  
- ```
+```
 
 ## Routes - api/users/register
 
@@ -83,7 +73,7 @@ Contains route which gets the email and password  from user .It creates a new en
 2. **Parameters:**  
      It takes two parameters ie. user Email and Password .
 3. **Response:**  
-   ```
+  ```
 
        {
 
@@ -95,27 +85,20 @@ Contains route which gets the email and password  from user .It creates a new en
 
            "jwtAccessToken": "JWT eyJhbG...",
 
-           "user": {
-
-             "\_\_v": 0,
-
-             "email": "user@gmail.com",
-
-             "password": "$2a$10$6U3AOzzdBbPH6a3kqA6.feei6GgvPSURkVHNdL13QhPFmnZVVTgnm",
-
-             "\_id": "57e272c7268e9103947bc472",
-
-             "jwtAccessToken": null,
-
-             "createdAt": "2016-09-21T11:45:11.898Z"
-
-           }
+            "user": {
+              "__v": 0,
+              "email": "result@test.in",
+              "password": "$2a$10$iuFt8YFSu8y1tzWVnxoBROxi2sL7e/vZZ2tvmBnu5lkJo1PmSEhrm",
+              "_id": "58fdd0c7beb5303d21767d93",
+              "jwtAccessToken": null,
+              "createdAt": "2017-04-24T10:17:43.515Z"
+            }
 
          }
 
        }
 
-     ```
+  ```
 
 ## Routes - api/users/
 
@@ -131,7 +114,7 @@ Contains route which gets the detail of  all users .It returns complete user Obj
      It takes JWT Token from the user .
 3. **Response:**
 
-```
+  ```
    {
 
    "success": true,
@@ -157,7 +140,7 @@ Contains route which gets the detail of  all users .It returns complete user Obj
    }
 
  }
- ```
+  ```
 
 ## Routes - api/users/:userId
 
