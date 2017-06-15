@@ -4,9 +4,9 @@ System Requirements:
 
 * Globally installed [node](https://nodejs.org/en/)&gt;= 6.3.1
 
-* Globally installed [npm](https://www.npmjs.com/)&gt;= 3.10.3
+* Globally installed [npm](https://www.npmjs.com/)&gt;= 4
 
-* Globally installe [mongodb](https://docs.mongodb.com/)&gt;=3.4.1
+* Globally installed [mongodb](https://docs.mongodb.com/)&gt;= 3.4.1
 
 #### Installation:
 
@@ -22,7 +22,7 @@ System Requirements:
           [user@localhost]$  mongod
     ```
 
-* * #### On the other window of terminal:
+  * #### On the other window of terminal:
 
                    `[user@localhost] $ cd NativeStarterPro-backend `
 
@@ -31,6 +31,15 @@ System Requirements:
                    `[user@localhost] $ npm start`
 
 #### 
+####Note: 
 
+* **To extract files in Windows**:<br>
+• Unzip the file.<br>
+• Right click on the extracted file and select <b>View files</b>.
+  All the files will be extracted.<br />
+  <b>We don't provide support for Windows. It's completely buyer's responsibility.</b>
+
+* **Ejecting from CRNA to get regular React Native app**:<br>
+  Ejecting from CRNA to regular React Native app can be performed referring this <a href="https://github.com/react-community/create-react-native-app/blob/master/EJECTING.md">link</a>.
 
 

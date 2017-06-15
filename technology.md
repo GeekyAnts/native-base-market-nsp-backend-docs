@@ -29,7 +29,7 @@ Express JS is a prebuilt Node JS framework that can help you in creating server-
 
 In short, Express JS did for Node JS what Bootstrap did for HTML/CSS and responsive web design. It made coding in Node JS a piece of cake and gave programmers some additional features to extend their server-side coding. Express JS is hands down the most famous Node JS framework - so much so that when most people talk about Node JS they surely mean Node JS + Express JS.
 
-* ### Passport JS
+* ### Passport JS:
 
 Passport is an authentication middleware for Node JS. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based application. Passport recognizes that each application has unique authentication requirements. Authentication mechanisms, known as strategies, are packaged as individual modules. Applications can choose which strategies to employ, without creating unnecessary dependencies.
 
