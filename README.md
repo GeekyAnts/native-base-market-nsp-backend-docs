@@ -1,6 +1,6 @@
 <center><img src ="./images/1.png" style="width: 50%; hieght: 50%"></center>
 
-# NativeStarterPro-Backend
+# NativeStarterPro-FullApp
 
 The ideal starter kit / app script with all the needed UI elements alongwith:
 

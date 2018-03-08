@@ -1,12 +1,11 @@
 {
-    "title": "NSP-Backend",
-    "plugins": [
-        "edit-link"
-    ],
-    "pluginsConfig": {
-        "edit-link": {
-            "base": "https://github.com/GeekyAnts/native-base-market-nsp-backend-docs/tree/master",
-            "label": "Edit This Page"
-        }
+  "title": "NSP-Backend",
+  "plugins": ["edit-link", "-fontsettings"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base":
+        "https://github.com/GeekyAnts/native-base-market-nsp-backend-docs/tree/master",
+      "label": "Edit This Page"
     }
+  }
 }

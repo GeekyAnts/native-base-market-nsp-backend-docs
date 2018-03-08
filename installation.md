@@ -1,4 +1,4 @@
-# Get Started
+<!-- # Get Started
 
 System Requirements:
 
@@ -42,4 +42,38 @@ System Requirements:
 * **Ejecting from CRNA to get regular React Native app**:<br>
   Ejecting from CRNA to regular React Native app can be performed referring this <a href="https://github.com/react-community/create-react-native-app/blob/master/EJECTING.md">link</a>.
 
+ -->
 
+
+## What Prerequisite knowledge do you need to run this app ?
+* [Node](https://nodejs.org/en/)
+* [Express](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [React-Native](https://facebook.github.io/react-native/)
+* [NPM](https://www.npmjs.com/)
+* [Git](https://git-scm.com/)
+* [REST API]()
+* [JWT Login]()
+* [ES6]()
+* [Passport for authentication](http://www.passportjs.org/docs/)
+* Basic knowledge of Linux Environment
+
+### Pre-Installed software
+* node >=v6.3.1
+* npm >= v4.0 (We don't recommend to use NPM v5)
+* exp-cli 
+* mongoDb >=v3.4.1
+
+
+### Make sure you are using the recommended software versions.
+
+* Npm [Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)/[Linux](http://blog.teamtreehouse.com/install-node-js-npm-linux)/[Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+* Mongodb [Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)/[Linux](https://docs.mongodb.com/manual/administration/install-on-linux/)/[Mac](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+* [Expo-Cli](https://www.npmjs.com/package/exp)
+* [CRNA-Cli](https://www.npmjs.com/package/create-react-native-app)
+* [Node](https://nodejs.org/en/download/)
+* [Git](https://git-scm.com/downloads)
+
+
+
+<!-- ### Trouble in installing for local machine? Please hit the [link](https://www.youtube.com/watch?v=NkaZ5q-S_VU&feature=youtu.be) -->
