@@ -1,4 +1,4 @@
-# Deploy Api-Server, Mobile App in Local machine
+# Deploy Api-Server & Mobile App in Local machine
 
 ####  Requirement
    
@@ -11,7 +11,7 @@
   
 ####  Installation Steps
 
-Step1: Download the Native Startter pro app and extract it
+Step1: Download the Native Starter pro app and extract it
 
 Step2: Open terminal and Go to Full-apps folder where you have extracted, there you would find 3 modules api-server, mobile-app 
 
@@ -37,6 +37,14 @@ Step5:  Open an another terminal and enter ```mongod``` this would start mongo s
 <!-- Steps: Initiate app for app folder  -->
 
   * cd NativeStarterPro-backend
+  * Now change the url and port number 
+
+Goto  MobileApp folder then js/Config.js and change the root to 
+ root: 'YOUR_IP:PORT/api',
+ port: 3000 // incase of running api-server (node app) in development
+ port: 3030 //incase of running api-server (node app) in production
+ port: 443 //incase of running api-server (node app) on heroku
+
   * Type ```npm i ```  
   * Type  npm start
 

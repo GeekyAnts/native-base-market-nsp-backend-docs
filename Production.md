@@ -1,4 +1,4 @@
-# Deploy Api-Server, Mobile App in Production
+# Deploy Api-Server & Mobile App in Production
 
 
 # Api server
@@ -20,9 +20,12 @@ Step4: Run forever now enter ```forever start dist/index.js``` Check if forever 
 You need to enter ```npm install --save bcrypt-nodejs && npm uninstall --save bcrypt```
 
 
+# Mobile App
 
-
-# Mobile App(Rider/Driver)
+Goto  MobileApp folder then js/Config.js and change the root to 
+ root: 'YOUR_IP:PORT/api',
+ port: 3030 //incase of running api-server (node app) in production
+ port: 443 //incase of running api-server (node app) on heroku
  
  Make sure you have an expo account .
  
