@@ -5,7 +5,7 @@ _package.json_
 <pre class="line-numbers"><code class="language-json">
 {
   "name": "native-starter-pro-back-end",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "main": "index.js",
   "private": false,
   "scripts": {

@@ -22,9 +22,9 @@
 ###  **Mobile App**
 
 * [Introduction](/mobileApp/README.md)
-* [What's New in v8.0.1?](./mobileApp/Whats-New-in-v8.0.1.md)
+* [What's New in v8.0.1?](./mobileApp/new.md)
 * [Technologies](./mobileApp/technologies.md)
-<!-- * [FolderStructure](./mobileApp/riderApp/folderStructure.md) -->
+<!-- * [FolderStructure](./mobileApp/folderStructure.md) -->
 * [Package Json](./mobileApp/packages.md)
 * [Guide](./mobileApp/guide.md)
   * [Customize](./mobileApp/guide/customize.md)
