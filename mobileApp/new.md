@@ -6,7 +6,7 @@
 
 #### Upgraded Features
 
-*   Upgraded to [React Native](https://github.com/facebook/react-native) 0.42.3
+*   Upgraded to [React Native](https://github.com/facebook/react-native) 0.48.4
 
 *   Upgraded NativeBase from 2.3.1 to 2.3.9
 
